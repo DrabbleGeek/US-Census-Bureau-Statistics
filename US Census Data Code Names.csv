@@ -1,0 +1,194 @@
+﻿Codes,Definition
+state,State name
+USPS/ANSI,2-letter United Sates Postal Service codes or 2-digit ANSI code where USPS code is unavailable
+landArea,Land area in square miles
+waterArea,Water area in square miles
+Pop,Total population
+medAge,Median age
+<5M,Male individuals under 5
+<5F,Female individuals under 5
+5-9M,Male individuals 5 to 9 years
+5-9F,Female individuals 5 to 9 years
+10-14M,Male individuals 10 to 14 years
+10-14F,Female indivduals 10 to 14 years
+15-19M,Male individuals 15 to 19 years
+15-19F,Female individuals 15 to 19 years
+20-24M,Male individuals 20 to 24 years
+20-24F,Female individuals 20 to 24 years
+25-29M,Male individuals 25 to 29 years
+25-29F,Female individuals 25 to 29 years
+30-34M,Male individuals 30 to 34 years
+30-34F,Female individuals 30 to 34 years
+35-39M,Male individuals 35 to 39 years
+35-39F,Female individuals 35 to 39 years
+40-44M,Male individuals 40 to 44 years
+40-44F,Female individuals 40 to 44 years
+45-49M,Male individuals 45 to 49 years
+45-49F,Female individuals 45 to 49 years
+50-54M,Male individuals 50 to 54 years
+50-54F,Female individuals 50 to 54 years
+55-59M,Male individuals 55 to 59 years
+55-59F,Female individuals 55 to 59 years
+60-64M,Male individuals 60 to 64 years
+60-64F,Female individuals 60 to 64 years
+65-69M,Male individuals 65 to 69 years
+65-69F,Female individuals 65 to 69 years
+70-74M,Male individuals 70 to 74 years
+70-74F,Female individuals 70 to 74 years
+75-79M,Male individuals 75 to 79 years
+75-79F,Female individuals 75 to 79 years
+80-84M,Male individuals 80 to 84 years
+80-84F,Female individuals 80 to 84 years
+85+M,Male individuals 85 years and over
+85+F,Female individuals 85 years and over
+English,People with English ancestry in %
+Irish,People with Irish ancestry in %
+German,People with German ancestry in %
+Scottish,People with Scottish ancestry in %
+Italian,People with Italian ancestry in %
+French,"People with French, not Basque, ancestry in %"
+SubAfrica,People with Subsaharan African ancestry in %
+Polish,People with Polish ancestry in %
+Norwegian,People with Norwegian ancestry in %
+nonEnglish,People who speak a language other than English at home in %
+Eng,People who speak English at home in %
+Spa,People who speak Spanish at home in %
+Indo-Euro,People who speak another Indo-European language at home in %
+API,People who speak an Asian or Pacific Islander language at home in %
+Other,People who speak another language at home in %
+forBorn,Percentage of foreign-born population
+natCit,"Of foreign-born population, percentage of naturalized citizens"
+nonCit,"Of foreign-born population, percentage of non-citizens"
+OldPop,Percentage of the population 65 years and older
+65-75pop,Percentage of the population 65 to 74 years
+75-84pop,Percentage of the population 75 to 84 years
+85+pop,Percentage of the population 85 years and over
+moveSame,Percentage of people who moved within the same county
+moveDiff,Percentage of people who moved from a different county
+moveState,Percentage of people who moved from a different state
+moveAbroad,Percentage of people who moved from abroad
+vetTot,Percentage of people who are veterans
+vetM,Percentage of veterans who are male
+vetF,Percentage of veterans who are female
+medHouse,Median household income
+medFam,Median family household income
+medMar,Median married-couple income
+medNonFam,Median nonfamily household income
+povTot,Percentage of people in poverty
+pov<18,Percentage of people under 18 in poverty
+pov18-64,Percentage of people 18 to 64 years in poverty
+pov65+,Percentage of people 65 years and over in poverty
+highSchool,Percentage of people 25 years and older with a high school diploma or equivalent degree
+someCollege,Percentage of people 25 years and older with a some college
+Associate,Percentage of people 25 years and older with an Associate's degree
+Bachelor,Percentage of people 25 years and older with a Bachelor's degree
+Grad,Percentage of people 25 years and older with a graduate or professional degree
+preK,Percentage of people 3 years and older enrolled in nursery or preschool
+K12,Percentage of people 3 years and older enrolled in Kindergarten to 12th grade
+college,Percentage of people 3 years and older in undergraduate college
+gradSchool,Percentage of people 3 years and older in graduate or professional school
+priEmploy,Percentage of workers who are employees of a private company
+selfEmployIn,Percentage of workers who are self-employed in own incorporated business workers
+npEmploy,Percentage of workers who are private not-for-profit wage and salary workers
+govEmploy,"Percentage of workers who are local, state, and federal government employees"
+selfEmplyNot,Percentage of workers who are self-employed in own not incorporated business workers and unpaid family workers
+commute,Average travel time to work in minutes
+drive,Average percentage of workers 16 years and over who drove alone to work
+carpool,Average percentage of workers 16 years and over who carpool to work
+publicTrans,Average percentage of workers 16 years and over who take public transportation to work
+walk,Average percentage of workers 16 years and over who walk to work
+bike,Average percentage of workers 16 years and over who bike to work
+cab,"Average percentage of workers 16 years and over who take taxicab, motorcycle, or other means to work"
+home,Average percentage of workers 16 years and over who worked from home
+employment,Employment rate
+edServ,"Percentage of civilians 16 years and over employed in educational services, and health care and social assistance"
+manufacture,Percentage of civilians 16 years and over employed in manufacturing
+retail,Percentage of civilians 16 years and over employed in retail trade
+proServ,"Percentage of civilians 16 years and over employed in professional, scientific, and management, and administrative and waste management services"
+arts,"Percentage of civilians 16 years and over employed in arts, entertainment, and recreation, and accommodation and food services"
+construct,Percentage of civilians 16 years and over employed in construction
+trans,"Percentage of civilians 16 years and over employed in transportation and warehousing, and utilities"
+finance,"Percentage of civilians 16 years and over employed in finance and insurance, and real estate and rental and leasing"
+publicAdmin,Percentage of civilians 16 years and over employed in public administration
+Agricul,"Percentage of civilians 16 years and over employed in agriculture, forestry, fishing and hunting, and mining"
+Info,Percentage of civilians 16 years and over employed in information
+otherServ,"Percentage of civilians 16 years and over employed in other services, except public administration"
+manageOcc,"Number of occupations for employed population in management, business, science and arts"
+salesOcc,Number of occupations for employed population in sales and office
+productionOcc,"Number of occupations for employed population in production, transportation, and material move occupations"
+serviceOcc,Number of occupations for employed population in service
+natOcc,"Number of occupations for employed population in natural resources, construction, and maintenance"
+meanWork,Average number of hours work
+workM,Percentage of males working the average usual hours
+workF,Percentage of women working the average usual hours
+medRent,Median gross rent
+<500,Percentage of occupied units paying rent of less than $500
+500-999,Percentage of occupied units paying rent of $500 to $999
+1000-1499,Percentage of occupied units paying rent of $1000 to $1499
+1500-1999,Percentage of occupied units paying rent of $1500 to $1999
+2000-2499,Percentage of occupied units paying rent of $2000 to $2499
+2500-2999,Percentage of occupied units paying rent of $2500 to $2999
+3000+,Percentage of occupied units paying rent of $3000 or more
+homeRate,Homeownership rate
+<50k,"Housing valued less than $50,000 (%)"
+50-99k,"Housing valued at $50,000 to $99,999 (%)"
+100-149k,"Housing valued at $100,000 to $149,999 (%)"
+150-199k,"Housing valued at $150,000 to $199,999 (%)"
+200-299k,"Housing valued at $200,000 to $299,999 (%)"
+300-499k,"Housing valued at $300,000 to $499,999 (%)"
+500-999k,"Housing valued at $500,000 to $999,999 (%)"
+1m+,"Housing valued at $1,000,000 or more (%)"
+houseUnits,Total housing units
+ownMar,Owner occupied married-couple family housing units
+ownMale,Owner occupied male householder
+ownFemale,Owner occupied female householder
+rentChar,Percentage of owner or renters who moved 2021 or later into occupied housing
+ownOcc,Percentage fo owners or renters who moved 2021 or later into owner-occupied housing units
+rentOcc,Percentage of owners or renters who moved 2021 or later into renter-occupied housing units
+0bd,Percentage of occupied housing units with no bedroom
+1bd,Percentage of occupied housing units with 1 bedroom
+2-3bd,Percertage of occupied housing units with 2 or 3 bedrooms
+4+bd,Percentage of occupied housing units with 4 or more bedrooms
+vacant,Vacancy rate
+disable,Percentage of population who are disabled
+hearDiff,Percentage of disabled population with hearing difficulty
+visionDiff,Percentage of disabled population with vision difficulty
+cognDiff,Percentage of disabled population with cognitive difficulty
+AmbDiff,Percentage of disabled population with ambulatory difficulty
+SelfDiff,Percntage of disabled population with self-care difficulty
+indepDiff,Percentage of disabled population with independent living difficulty
+fert,Number of births of women 15 to 50 years
+15-19Fert,Number of births of women 15 to 19 years
+20-34Fert,Number of births of women 20 to 34 years
+35-50Fert,Number of births of women 35 to 50 years
+noHealth,Percentage of people without health care coverage
+expense,"Total annual payroll in thousands for mining, quarrying, and oil and gas extraction"
+salesShip,"Total retail sales in thousands for mining, quarrying, and oil and gas extraction"
+pop18-,Percentage of children
+chil<5,Percentage of children under 5 years
+chil5-14,Percentage of children 5 to 14 years
+chil15-17,Percentage of children 15 to 17
+famSize,Average family size
+marHouse,Percentage of married-couple family household
+malHouse,Percentage of male householder family household
+femHouse,Percentage of female householder family household
+nevMar,Percentage of people never married
+marMale,Percentage of male individuals married and not separated
+marFemale,Percentage of female individuals married and not separated
+widMale,Percentage of male individuals widowed
+widFemale,Percentage of female individuals widowed
+divMale,Percentage of male individuals divorced
+divFemale,Percentage of female individuals divorced
+sepMale,Percentage of separated male individuals
+sepFemale,Percentage of separated female individuals
+nevMale,Percentage of male individuals never married
+nevFemale,Percentage of female individuals never married
+AIAN,Number of American Indian and Alaskia Native individuals
+Asian,Number of Asian individuals
+Black,Number of Black or African American individuals
+Hispanic,Number of Hispanic or Latino individuals
+NHPI,Number of Native Hawaiian and Other Pacific Islander individuals
+nonHisp,"Number of White alone, non-Hispanic or -Latino individuals"
+otherRace,Number of individuals of some other race
+2+Race,Number of individuals of two or more races
+White,"Number of White alone, individuals"
